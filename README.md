@@ -1,134 +1,148 @@
-👋 Hi, I'm Suchita Patil
+<!-- ===================== HEADER ===================== -->
 
-🎓 MCA Student at MIT-WPU | 💻 Aspiring Software Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Suchita+Patil;MCA+Student+%7C+Developer;AI+%26+ML+Enthusiast;Building+Projects+That+Solve+Real+Problems" />
+</p>
 
-I'm an MCA student at MIT World Peace University (MIT-WPU) with a strong interest in software development, databases, Python, Java, and Artificial Intelligence & Machine Learning.
-
-I enjoy learning new technologies, solving programming problems, and building practical projects that solve real-world problems. 🚀
-
----
-
-🎓 Education
-
-Master of Computer Applications (MCA)
-MIT World Peace University (MIT-WPU)
-📍 Pune, Maharashtra
-
-Bachelor of Computer Applications (BCA)
-R. C. Patel ACS College, Shirpur
-Kavayitri Bahinabai Chaudhari North Maharashtra University
+<p align="center">
+  <a href="https://github.com/suchita4004-collab">
+    <img src="https://komarev.com/ghpvc/?username=suchita4004-collab&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/suchita4004-collab?tab=followers">
+    <img src="https://img.shields.io/github/followers/suchita4004-collab?label=Followers&style=flat" />
+  </a>
+</p>
 
 ---
 
-💻 Technical Skills
+# About Me
 
-Programming Languages
+I am an MCA student at MIT World Peace University (MIT-WPU), passionate about software development, artificial intelligence, machine learning, and problem solving.
 
-- Python
-- Java
-- C
-- C++
+I enjoy building practical applications and learning technologies that can be applied to real-world problems.
 
-Web Technologies
-
-- HTML
-- CSS
-- JavaScript
-
-Database & Development
-
-- SQL
-- DBMS
-- MySQL
-- Flask
-
-AI & Data Science
-
-- Machine Learning
-- Artificial Intelligence
-- Pandas
-- NumPy
-- Scikit-learn
-
-Tools & Technologies
-
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Microsoft Excel
+- Currently pursuing MCA at MIT-WPU
+- Interested in Software Development
+- Exploring AI & Machine Learning
+- Strong interest in Python, Java and SQL
+- Learning through projects and practical implementation
+- Open to learning, collaboration and new opportunities
 
 ---
 
-🚀 Featured Project
+# Tech Stack
 
-💧 Water Stress Prediction System
+### Languages
 
-A Machine Learning-based system designed to predict water stress levels in rural villages using proxy-based data.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript" />
+</p>
 
-Technologies Used:
+### Web Development
 
-- Python
-- Flask
-- Machine Learning
-- Random Forest
-- Pandas
-- NumPy
-- Scikit-learn
-- HTML
-- CSS
-- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-Key Features:
+### Database & Tools
 
-- 🌧️ Rainfall gap analysis
-- 🌾 Crop-based analysis
-- ⚡ Electricity usage patterns
-- 🚰 Tanker demand analysis
-- 📊 Water stress prediction
-- 🗺️ Village/district-based visualization
-- 💡 Recommendations based on predicted stress level
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
 
----
+### AI & Machine Learning
 
-🏆 Achievements
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-- 🥇 1st Rank – Software Project Exhibition (2025–26)
-- 🏆 Aavishkar Research Competition – Dhule District Winner
-- 📜 IBM SkillsBuild – IBM & Design Thinking
-- 📜 Aptitude Training – Talent Battle Pvt. Ltd.
-- 📜 Employability Skill Training Programme – Mahindra Pride Classroom
-- 🎯 Selected for Campus Drive – Kiran Academy
+`Pandas` • `NumPy` • `Scikit-learn` • `Random Forest` • `Machine Learning`
 
 ---
 
-👨‍💻 Coding Profiles
+# Featured Projects
 
-CodeChef
+<table>
+<tr>
+<td width="50%">
 
-Username: "mitwpu_9120"
+### Water Stress Prediction System
 
-👉 "Visit my CodeChef Profile" (https://www.codechef.com/users/mitwpu_9120)
+Machine-learning based system designed to predict water stress in rural villages using proxy data without sensors or IoT.
 
----
+**Tech Stack**
 
+Python • Flask • Pandas • Scikit-learn • Random Forest • HTML • CSS • JavaScript
 
-📚 Currently Learning
+</td>
 
-- Java
-- Advanced SQL & DBMS
-- Data Structures & Algorithms
-- Machine Learning
+<td width="50%">
+
+### More Projects Coming Soon
+
+Currently working on building and improving projects related to:
+
+- AI & Machine Learning
 - Web Development
+- Database Systems
 - Software Development
-- Git & GitHub
+
+</td>
+</tr>
+</table>
 
 ---
 
-🎯 Goals
+# GitHub Statistics
 
-I'm currently focused on strengthening my programming, problem-solving, DSA, database, and software development skills while building projects and preparing for future opportunities in the IT industry.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suchita4004-collab&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchita4004-collab&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# Contribution Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=suchita4004-collab&theme=dark&hide_border=true" />
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suchita4004-collab&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suchita4004-collab&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
+# Achievements
+
+- **1st Rank** — Software Project Exhibition 2025–26
+- **Winner** — 
+- **IBM Design Thinking** — IBM SkillsBuild
+- **Employability Skill Training Programme** — Mahindra Pride Classroom
+- **Aptitude Training** — 60 Hours, Talent Battle Pvt. Ltd.
+
+---
+
+# Currently Learning
+
+```text
+Artificial Intelligence
+Machine Learning
+Advanced Java
+Database Management Systems
+Software Engineering
+Web Development
+Data Structures & Algorithms
