@@ -93,23 +93,7 @@ A machine-learning based system designed to predict water stress in rural villag
 The system aims to identify potential water-stress conditions and provide data-driven insights that can support better decision-making.
 ---
 
-# GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=suchita4004-collab&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
-    height="180"
-    alt="Suchita's GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchita4004-collab&layout=compact&theme=dark&hide_border=true&langs_count=8"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
-
----
 
 # Contribution Streak
 
@@ -122,25 +106,8 @@ The system aims to identify potential water-stress conditions and provide data-d
 
 ---
 
-# Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=suchita4004-collab&theme=github-dark&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
 
----
-
-# GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=suchita4004-collab&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
 ### Technologies Used
 
 ```text
