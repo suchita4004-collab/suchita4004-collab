@@ -92,6 +92,15 @@ A machine-learning based system designed to predict water stress in rural villag
 
 The system aims to identify potential water-stress conditions and provide data-driven insights that can support better decision-making.
 
+# Contribution Streak
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=suchita4004-collab&theme=dark&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+---
+
 ### Technologies Used
 
 ```text
@@ -104,9 +113,4 @@ Random Forest
 HTML
 CSS
 JavaScript
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=suchita4004-collab&theme=dark&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+
