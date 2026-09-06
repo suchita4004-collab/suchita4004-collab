@@ -110,7 +110,14 @@ The system aims to identify potential water-stress conditions and provide data-d
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+## 📊 Most Used Languages
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchita4004-collab&layout=compact&theme=dark&hide_border=false&langs_count=5"
+    alt="Most Used Languages"
+  />
+</p>
 
 
 
