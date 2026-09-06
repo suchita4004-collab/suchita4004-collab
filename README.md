@@ -1,120 +1,136 @@
-\<!-- ===================== HEADER ===================== -->
+```md
+<!-- ===================== HEADER ===================== -->
 
-\<p align="center">
-&#x20; \<img
-&#x20;   src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi%2C+I](https://readme-typing-svg.demolab.com/?font=Fira+Code\&weight=600\&size=28\&duration=3000\&pause=1000\&color=FFFFFF\&center=true\&vCenter=true\&width=750\&lines=Hi%2C+I)'m+Suchita+Patil;MCA+Student+%7C+Developer;AI+%26+ML+Enthusiast;Building+Projects+That+Solve+Real+Problems"
-&#x20;   alt="Typing SVG"
-&#x20; />
-\</p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Suchita+Patil;MCA+Student+%7C+Developer;AI+%26+ML+Enthusiast;Building+Projects+That+Solve+Real+Problems"
+    alt="Typing SVG"
+  />
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/suchita4004-collab](https://github.com/suchita4004-collab)">
-&#x20;   \<img
-&#x20;     src="[https://komarev.com/ghpvc/?username=suchita4004-collab&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=suchita4004-collab\&label=Profile%20Views\&color=0e75b6\&style=flat)"
-&#x20;     alt="Profile Views"
-&#x20;   />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/suchita4004-collab?tab=followers](https://github.com/suchita4004-collab?tab=followers)">
-&#x20;   \<img
-&#x20;     src="[https://img.shields.io/github/followers/suchita4004-collab?label=Followers&style=flat](https://img.shields.io/github/followers/suchita4004-collab?label=Followers\&style=flat)"
-&#x20;     alt="GitHub Followers"
-&#x20;   />
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://github.com/suchita4004-collab">
+    <img
+      src="https://komarev.com/ghpvc/?username=suchita4004-collab&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="Profile Views"
+    />
+  </a>
+  <a href="https://github.com/suchita4004-collab?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/suchita4004-collab?label=Followers&style=flat"
+      alt="GitHub Followers"
+    />
+  </a>
+</p>
 
-\---
+---
 
-\# About Me
+# About Me
 
-I am an MCA student at \*\*MIT World Peace University (MIT-WPU)\*\* with an interest in software development, artificial intelligence, machine learning, and database systems.
+I am an MCA student at **MIT World Peace University (MIT-WPU)** with an interest in software development, artificial intelligence, machine learning, and database systems.
 
 I enjoy building practical applications, solving programming problems, and exploring technologies that can be applied to real-world challenges.
 
-\- Currently pursuing MCA at MIT-WPU
-\- Interested in Software Development
-\- Exploring Artificial Intelligence and Machine Learning
-\- Strong interest in Python, Java and SQL
-\- Learning through projects and practical implementation
-\- Interested in problem solving and continuous improvement
-\- Open to collaboration, learning opportunities and meaningful projects
+- Currently pursuing MCA at MIT-WPU
+- Interested in software development and problem solving
+- Exploring artificial intelligence and machine learning
+- Strong interest in Python, Java, and SQL
+- Learning through projects and practical implementation
+- Open to collaboration, learning opportunities, and meaningful projects
 
-\---
+---
 
-\# Tech Stack
+# Tech Stack
 
-\### Programming Languages
+### Programming Languages
 
-\<p align="left">
-&#x20; \<img
-&#x20;   src="[https://skillicons.dev/icons?i=python,java,cpp,c,javascript](https://skillicons.dev/icons?i=python,java,cpp,c,javascript)"
-&#x20;   alt="Programming Languages"
-&#x20; />
-\</p>
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript"
+    alt="Programming Languages"
+  />
+</p>
 
-\### Web Development
+### Web Development
 
-\<p align="left">
-&#x20; \<img
-&#x20;   src="[https://skillicons.dev/icons?i=html,css,javascript](https://skillicons.dev/icons?i=html,css,javascript)"
-&#x20;   alt="Web Development"
-&#x20; />
-\</p>
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,javascript,flask"
+    alt="Web Development"
+  />
+</p>
 
-\### Database & Tools
+### Database & Tools
 
-\<p align="left">
-&#x20; \<img
-&#x20;   src="[https://skillicons.dev/icons?i=mysql,git,github,vscode](https://skillicons.dev/icons?i=mysql,git,github,vscode)"
-&#x20;   alt="Database and Development Tools"
-&#x20; />
-\</p>
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode"
+    alt="Database and Development Tools"
+  />
+</p>
 
-\### AI & Machine Learning
+### AI, Machine Learning & Computer Vision
 
-\<p align="left">
-&#x20; \<img
-&#x20;   src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)"
-&#x20;   alt="Python"
-&#x20; />
-\</p>
+<p>
+  Pandas • NumPy • Scikit-learn • Random Forest • OpenCV • YOLOv8 • MediaPipe • Machine Learning
+</p>
 
-\<p>
-&#x20; Pandas • NumPy • Scikit-learn • Random Forest • Machine Learning
-\</p>
+---
 
-\---
+# Featured Projects
 
-\# Featured Project
+## 💧 [Water Stress Prediction](https://github.com/suchita4004-collab/Water_Stress_Prediction)
 
-\## Water Stress Prediction System
+AI-powered water-stress prediction system using machine-learning models for agricultural analysis. It helps identify possible water-stress conditions and supports better data-driven decisions.
 
-A machine-learning based system designed to predict water stress in rural villages using proxy data without relying on physical sensors or IoT devices.
+**Technologies:** Python • Flask • Pandas • NumPy • Scikit-learn • Random Forest • HTML • CSS • JavaScript
 
-The system aims to identify potential water-stress conditions and provide data-driven insights that can support better decision-making.
-\---
+---
 
+## 🛡️ [CheatGuard AI](https://github.com/suchita4004-collab/CheatGuard_AI)
 
+AI-powered classroom monitoring and cheating-detection dashboard. It uses computer vision to identify suspicious activity and presents insights through an interactive dashboard.
 
-\# Contribution Streak
+**Technologies:** Python • Flask • OpenCV • YOLOv8 • MediaPipe • SQLite • Chart.js
 
-\<p align="center">
-&#x20; \<img
-&#x20;   src="[https://streak-stats.demolab.com/?user=suchita4004-collab&theme=dark&hide\_border=true](https://streak-stats.demolab.com/?user=suchita4004-collab\&theme=dark\&hide_border=true)"
-&#x20;   alt="GitHub Contribution Streak"
-&#x20; />
-\</p>
+---
 
-\---
+## 💻 [LeetCode Solutions](https://github.com/suchita4004-collab/LeetCode_solution)
 
+A collection of my LeetCode problem solutions in Python, created while strengthening my skills in data structures, algorithms, and problem-solving.
 
+**Technologies:** Python • Data Structures • Algorithms
 
-\### Technologies Used
+---
 
-\`\`\`text
-Python
-Flask
-Pandas
-NumPy
-Scikit-learn
-Random Forest
-HTML tese is my readme
+## ☕ [CodeChef Solutions](https://github.com/suchita4004-collab/CodeChef-Solutions)
+
+A collection of my solutions to CodeChef programming problems, focused on logical thinking and competitive-programming skills.
+
+**Technologies:** Java • Competitive Programming • Problem Solving
+
+---
+
+# GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=suchita4004-collab&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Suchita's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=suchita4004-collab&theme=dark&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchita4004-collab&theme=dark&hide_border=true&layout=compact"
+    alt="Top Languages"
+  />
+</p>
+```
