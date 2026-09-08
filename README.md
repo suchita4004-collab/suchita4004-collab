@@ -95,9 +95,9 @@ The system aims to identify potential water-stress conditions and provide data-d
 # Contribution Streak
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=suchita4004-collab&theme=dark&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  src="https://streak-stats.demolab.com/?user=suchita4004-collab&theme=dark&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
 </p>
 ---
  <!-- ==================== TECH STACK ==================== -->
